@@ -12,9 +12,13 @@ def is_first_and_last_same(list):
 # first given 
 numbers_x = [10, 20, 30, 40, 10]
 result = is_first_and_last_same(numbers_x)
-print("result is:",  is_first_and_last_same(numbers_x))
+print("The result is:",  is_first_and_last_same(numbers_x))
 
-# second given [75, 65, 35, 75, 30]
+# second given 
+numbers_y = [75, 65, 35, 75, 30]
+result = is_first_and_last_same(numbers_y)
+print("The result is:",  is_first_and_last_same(numbers_y))
+
 
 
 
